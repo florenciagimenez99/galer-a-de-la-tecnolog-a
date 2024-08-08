@@ -9,10 +9,12 @@ body {
 }
 
 .link-button {
+    background-color: #e1d9b7;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: rgb(94, 90, 90);
+    border: 2px solid rgb(207, 192, 58);
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
