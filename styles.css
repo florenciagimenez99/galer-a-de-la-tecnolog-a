@@ -2,11 +2,19 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
-.image{
-    border: 5px solid green;
+.contenedor{
+    width: 100%;
+    text-align: center;
+}
+
+.contenedor img {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rgb(207, 192, 58);
     border-radius: 10px;
     height: 400px;
 }
+
 
 .link-button {
     text-decoration: none;
